@@ -1,0 +1,146 @@
+[
+  {
+  "name": "Gross Schoenebeck",
+  "Geoth. Leistung in MW": "10",
+  "Elektr. Leistung in MW": "1.0",
+  "Temperatur in C": "150",
+  "Foerderrate in m3/h": "50",
+  "Bohrtiefe in m": "4294"
+  },
+  {
+  "name": "Neustadt-Glewe",
+  "Geoth. Leistung in MW": "10",
+  "Elektr. Leistung in MW": "0.21",
+  "Temperatur in C": "98",
+  "Foerderrate in m3/h": "119",
+  "Bohrtiefe in m": "2250"
+  },
+  {
+  "name": "Bad Urach",
+  "Geoth. Leistung in MW": "8",
+  "Elektr. Leistung in MW": "1.0",
+  "Temperatur in C": "170",
+  "Foerderrate in m3/h": "48",
+  "Bohrtiefe in m": "4500"
+  },
+  {
+  "name": "Bruchsaal",
+  "Geoth. Leistung in MW": "4",
+  "Elektr. Leistung in MW": "0.5",
+  "Temperatur in C": "118",
+  "Foerderrate in m3/h": "86",
+  "Bohrtiefe in m": "2500"
+  },
+  {
+  "name": "Landau in der Pfalz",
+  "Geoth. Leistung in MW": "22",
+  "Elektr. Leistung in MW": "3",
+  "Temperatur in C": "159",
+  "Foerderrate in m3/h": "70",
+  "Bohrtiefe in m": "3000"
+  },
+  {
+  "name": "Offenbach an der Queich",
+  "Geoth. Leistung in MW": "37",
+  "Elektr. Leistung in MW": "5.4",
+  "Temperatur in C": "160",
+  "Foerderrate in m3/h": "360",
+  "Bohrtiefe in m": "3500"
+  },
+  {
+  "name": "Speyer",
+  "Geoth. Leistung in MW": "37",
+  "Elektr. Leistung in MW": "5.4",
+  "Temperatur in C": "150",
+  "Foerderrate in m3/h": "450",
+  "Bohrtiefe in m": "2900"
+  },
+  {
+  "name": "Simbach-Braunau",
+  "Geoth. Leistung in MW": "7",
+  "Elektr. Leistung in MW": "0.2",
+  "Temperatur in C": "80",
+  "Foerderrate in m3/h": "266",
+  "Bohrtiefe in m": "1900"
+  },
+  {
+  "name": "Unterhaching",
+  "Geoth. Leistung in MW": "40",
+  "Elektr. Leistung in MW": "3.4",
+  "Temperatur in C": "122",
+  "Foerderrate in m3/h": "540",
+  "Bohrtiefe in m": "3577"
+  },
+  {
+  "name": "Sauerlach",
+  "Geoth. Leistung in MW": "80",
+  "Elektr. Leistung in MW": "5",
+  "Temperatur in C": "140",
+  "Foerderrate in m3/h": "600",
+  "Bohrtiefe in m": "5500"
+  },
+  {
+  "name": "Duerrnhaar",
+  "Geoth. Leistung in MW": "50",
+  "Elektr. Leistung in MW": "5.0",
+  "Temperatur in C": "135",
+  "Foerderrate in m3/h": "400",
+  "Bohrtiefe in m": "4000"
+  },
+  {
+  "name": "Kirchstockach",
+  "Geoth. Leistung in MW": "50",
+  "Elektr. Leistung in MW": "5.0",
+  "Temperatur in C": "130",
+  "Foerderrate in m3/h": "450",
+  "Bohrtiefe in m": "4000"
+  },
+  {
+  "name": "Laufzorn",
+  "Geoth. Leistung in MW": "50",
+  "Elektr. Leistung in MW": "5.0",
+  "Temperatur in C": "130",
+  "Foerderrate in m3/h": "470",
+  "Bohrtiefe in m": "4000"
+  },
+  {
+  "name": "Taufkirchen",
+  "Geoth. Leistung in MW": "35",
+  "Elektr. Leistung in MW": "4.3",
+  "Temperatur in C": "136",
+  "Foerderrate in m3/h": "430",
+  "Bohrtiefe in m": "3000"
+  },
+  {
+  "name": "Traunreut",
+  "Geoth. Leistung in MW": "12",
+  "Elektr. Leistung in MW": "5.5",
+  "Temperatur in C": "120",
+  "Foerderrate in m3/h": "470",
+  "Bohrtiefe in m": "4500"
+  },
+  {
+  "name": "Holzkirchen",
+  "Geoth. Leistung in MW": "24",
+  "Elektr. Leistung in MW": "3.4",
+  "Temperatur in C": "150",
+  "Foerderrate in m3/h": "200",
+  "Bohrtiefe in m": "5100"
+  },
+  {
+  "name": "Altheim",
+  "Geoth. Leistung in MW": "18.8",
+  "Elektr. Leistung in MW": "0.5",
+  "Temperatur in C": "105",
+  "Foerderrate in m3/h": "330",
+  "Bohrtiefe in m": "2146"
+  },
+  {
+  "name": "Bad Blumau",
+  "Geoth. Leistung in MW": "7.6",
+  "Elektr. Leistung in MW": "0.18",
+  "Temperatur in C": "107",
+  "Foerderrate in m3/h": "90",
+  "Bohrtiefe in m": "2843"
+  }
+]

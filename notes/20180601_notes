@@ -1,0 +1,15 @@
+#Mathematics of Geothermal 
+### Linear Regression of Depth and Temperature
+- depth = 25.93 * temperature + 128.29
+only for higher temperatures!
+### Polynomial fit of geothermal power, temperature and extraction rate
+- for geothermal power
+    - temperature extraction coefficient = temperature * extraction rate (tec)
+    - geothermal power = 3.93863416e-17 * tec³ + -8.04762275e-09 * tec² + 7.65096845e-01 * tec + -1.06969341e+05
+### Efficiency of Geothermal power and Electrical power
+- geothermal power to electrical power (efficiency) is dependent on the turbine
+    - median of efficiencies given in data set is 0.1 with a std dev of 0.0964708425658. So everything withing this 
+    window is a good turbine
+### Issues, which can occur
+- efficiency is going down
+- extraction rate is varying
