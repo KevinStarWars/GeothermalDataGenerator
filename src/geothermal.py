@@ -109,6 +109,7 @@ class Geothermal:
                 self.change_efficiency()
             self.calculate_geothermal_power()
             self.calculate_electrical_power()
+            self.time_step = step
             time_list.append(self.to_dictionary())
         self.list_to_file(time_list)
 
